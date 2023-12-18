@@ -1,5 +1,7 @@
 # Materi
 ![image](https://github.com/rplulbi/SQA23/assets/15622730/132ee765-ff5b-417f-92c1-4d79adc4ad4f)
+![image](https://github.com/rplulbi/SQA23/assets/15622730/305a47cb-2db7-4a37-87b4-7c9338ee4dcc)
+
 
 1. [Deskripsi Matkul](https://github.com/rplulbi/SQA23/blob/main/Chapter01/deskripsimatkul.md)
 2. [Pendahuluan](https://github.com/rplulbi/SQA23/blob/main/Chapter01/pengantar.md)
