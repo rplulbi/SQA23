@@ -1,6 +1,6 @@
 # Materi
-1. [Deskripsi Matkul](https://github.com/rplulbi/SQA/blob/main/Chapter1/1.%20deskripsimatkul.md)
-2. [Pendahuluan](https://github.com/rplulbi/SQA/blob/main/Chapter1/2.%20Pengantar.md)
+1. [Deskripsi Matkul](https://github.com/rplulbi/SQA23/blob/main/Chapter01/deskripsimatkul.md)
+2. [Pendahuluan](https://github.com/rplulbi/SQA23/blob/main/Chapter01/pengantar.md)
 
 
 
