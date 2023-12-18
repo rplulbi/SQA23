@@ -10,8 +10,8 @@ Software Quality Assurance: Integrating Testing, Security, and Audit (Internal A
 by Abu Sayed Mahfuz (Author)
 
 ## Jadwal Kuliah
-- Jumat Pukul 19:00 - 20:00
-- Sabtu Pukul 09:00 - 11:00
+- Senin Pukul 16:30 - 19:00
+- Jumat Pukul 16:30 - 19:00
 
 # Deskripsi Perkuliahan dan Penilaian
 ## Penilaian 
