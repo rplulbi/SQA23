@@ -1,4 +1,3 @@
-714232005
-![image](https://github.com/rafirustian/SQA23-Rafi/assets/154288866/2c022763-11d2-4ba3-8fa5-713a7f0737cf)
+<img width="955" alt="cob1" src="https://github.com/rafirustian/SQA23-Rafi/assets/154288866/8718d17f-d97e-4e15-89fe-5f85109094de">
 
 abis ini gimana lagi T.T
