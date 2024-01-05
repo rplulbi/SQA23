@@ -8,7 +8,7 @@ Line 6 untuk mencari element berdasarkan "name" dengan keyword "email"
 
 setelah element ditemukan diisi dengan email
 
-setelah element "email terisi
+setelah element email terisi
 
 line 7 mencari element kembali berdasarkan "name" dengan keyword "password"
 
