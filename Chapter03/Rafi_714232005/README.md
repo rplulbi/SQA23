@@ -4,6 +4,14 @@ Coba Tes Laman Login Website PUTR apakah berfungsi atau tidak
 
 Line 5 untuk memanggil laman
 
+coba menggunakan find element
+
+untuk mengetahuin element apa yg akan dicari dgn cara sbb :
+
+<img width="943" alt="image" src="https://github.com/rafirustian/SQA23-Rafi/assets/154288866/8c5b1ba1-2813-4a04-b5e8-c77c9ebc8e40">
+
+jadi kita bisa menetahui element apa yang akan dicari dan dengan menggunakan keyword apa
+
 Line 6 untuk mencari element berdasarkan "name" dengan keyword "email"
 
 setelah element ditemukan diisi dengan email
