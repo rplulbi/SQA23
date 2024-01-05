@@ -75,8 +75,10 @@ disini yang akan digunakan adalah findelemen.py
 1. Buat folder NPM_NAMA pada Chapter03 di akun github masing-masing hasil dari fork dan update (sinc)
 2. Tambahkan README.md
 3. Buatkan dokumentasi pengujian sistem pada repository masing-masing
-4. deskripsikan langkahnya sesuai dengan apa yang sudah dilakukan pada README.md setelah melakukan sinkronisasi repo
-5. lakukan pull request 
+4. Silahkan pilih pengujian sistemnya (Selenium, JUnit, Appiu, LoadRunner, Postman, JMeter, SOnarQube, TestComplete)
+5. lakukan pengujian pada sistem yang sudah pernah dibuat
+6. deskripsikan langkahnya sesuai dengan apa yang sudah dilakukan pada README.md setelah melakukan sinkronisasi repo
+7. lakukan pull request dan selesai
 
 
 
