@@ -2,12 +2,6 @@
 [MineMap Software Tester](https://www.mindmeister.com/map/2830775965?t=QDy40aCAL3)
 ![image](https://github.com/rplulbi/SQA/assets/15622730/167b9d8a-7c54-4d9b-85da-b1e50566c562)
 
-# Kehadiran
-![image](https://github.com/rplulbi/SQA/assets/15622730/39ebd4d3-f101-4213-995d-3610caba7745)
-![image](https://github.com/rplulbi/SQA/assets/15622730/a3cc0d64-3904-4ebf-8aa1-001686ce794c)
-![image](https://github.com/rplulbi/SQA/assets/15622730/90004db2-e819-4070-b7d1-d4d5622fa088)
-![image](https://github.com/rplulbi/SQA/assets/15622730/89a58c68-b27d-41ea-8190-5d6abaf3a011)
-
 ## List of Free Software Testing Resources
 
 [![Build Status](https://travis-ci.org/ligurio/awesome-software-quality.svg?branch=master)](https://travis-ci.org/ligurio/awesome-software-quality)
