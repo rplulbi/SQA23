@@ -1,4 +1,4 @@
-# ASESSMENT PERTAMA (UTS)
+# ASESSMENT 
 ## Deskripsi Asessment
 1. Buatlah Folder NPM_NAMA
 2. Kerjakan masing-masing kasus pada Readme didalam folder tersebut (masing-masing) 
