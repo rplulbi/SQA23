@@ -4,6 +4,7 @@ ASSESMENT – SOFTWARE QUALITY
 Nama 		: Rafi Saumi Rustian
 NPM		: 714232005
 Studi Kasus	: Perusahaan B sedang mengembangkan platform e-commerce baru.
+Link PPT   : https://youtu.be/F1Rz7vLVtH4?si=w29nxGORzKIQM_oU
 
 
 1.	Bagaimana QA dapat memverifikasi keamanan platform e-commerce ini untuk melindungi data sensitif pelanggan, seperti informasi pembayaran dan data pribadi?
