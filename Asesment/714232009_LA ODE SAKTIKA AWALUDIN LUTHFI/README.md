@@ -2,8 +2,8 @@
 #### Nama : La Ode Saktika Awaludin Luthfi
 #### NPM : 714232009
 #### Studi Kasus: Perusahaan C sedang mengembangkan perangkat lunak medis yang kritis
-## Link PPT : 
-
+## Link PPT : https://docs.google.com/presentation/d/1hrKWoKmwn_zY-f6vqA-ovZ9REgn8ADtl/edit?usp=drive_link&ouid=116033211074015855013&rtpof=true&sd=true
+## Link Youtube :https://youtu.be/dxR8O6m9XxA
 
 ## 1. Bagaimana QA dapat memverifikasi bahwa perangkat lunak medis ini memenuhi persyaratan regulasi dan kepatuhan industri yang ketat, seperti ISO 13485 atau FDA (Food and Drug Administration)?
 
