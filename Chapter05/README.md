@@ -1,5 +1,5 @@
 # Deskripsi Tugas:
-1. Buat folder baru NPM_Nama
+1. Buat folder baru NPM_Nama Disini
 2. Masukan File Tugas dan Readme.md
 
 ![image](https://github.com/rplulbi/SQA23/assets/15622730/eb45dcdb-6cc5-4a59-b103-396bba4976ee)
