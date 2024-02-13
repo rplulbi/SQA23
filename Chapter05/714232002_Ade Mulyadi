@@ -1,0 +1,41 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
+# Fungsi untuk menguji proses pendaftaran pengguna
+def test_user_registration():
+    # Konfigurasi WebDriver
+    driver = webdriver.Chrome()
+    driver.maximize_window()
+
+    # Buka halaman pendaftaran
+    driver.get("https://data.perpusnas.go.id/register")
+No. Telpon
+    try:
+        # Isi formulir pendaftaran dengan data pengguna
+        driver.find_element_by_id("username").send_keys("dodolgarut")
+        driver.find_element_by_id("email").send_keys("dodolgarut@gmail.com")
+         driver.find_element_by_id("telp").send_keys("081395472102")
+        driver.find_element_by_id("password").send_keys("password123")
+        driver.find_element_by_id("confirm_password").send_keys("password123")
+        
+        # Klik tombol pendaftaran
+        driver.find_element_by_id("register_button").click()
+
+        # Tunggu hingga halaman pendaftaran selesai dimuat
+        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "registration_success_message")))
+
+        # Verifikasi bahwa pendaftaran berhasil
+        assert "Registration successful" in driver.page_source
+
+    except Exception as e:
+        print("Error occurred during registration:", str(e))
+    
+    finally:
+        # Tutup browser setelah selesai pengujian
+        driver.quit()
+
+# Jalankan pengujian
+if __name__ == "__main__":
+    test_user_registration()
